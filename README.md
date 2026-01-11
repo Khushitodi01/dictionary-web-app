@@ -28,7 +28,7 @@ The app also supports dark mode and font selection for better readability.
 ---
 
 ## 📸 Screenshots
-(Add screenshots here)
+_Screenshots will be added soon._
 
 ---
 
